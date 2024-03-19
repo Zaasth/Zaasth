@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.narvii.com/7103/0e88fd2be37ccdb03ad5d859c18d93426b2f68cer1-500-281_hq.gif"  />
+
 
 ###
 
