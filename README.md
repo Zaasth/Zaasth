@@ -68,6 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zaasth/Zaasth/output/snake.svg" alt="Snake animation" />
+
 
 ###
