@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <a href="https://wellintonlucas.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=portfolio&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://www.linkedin.com/in/wellinton-lucas-177a93251/" target="_blank">
